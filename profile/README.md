@@ -11,7 +11,7 @@ Groundwater is the primary water source for irrigated agriculture in many arid r
 This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/projects/land-use-changes-hyper-arid-areas-experiencing-groundwater-decline) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara
 
 ### Repositories in this Organization
--    [GW-depth-data-exploration](https://github.com/meds-AridGW/GW-depth-data-exploration): This repository is used to create a reproducible workflow that integrates open-source evapotranspiration (ET), groundwater, precipitation, aridity index, National agricultural (cultivated and non-cultivated), and Spearman’s rank correlation. The purpose of this is to find the relationship between agriculture (arid and humid sites) and groundwater decline using ET: Precipitation ratio and groundwater trend (mm/yr).
+-    [ET_GW_analysis_workflow](https://github.com/meds-AridGW/GW-depth-data-exploration): This repository is used to create a reproducible workflow that integrates open-source evapotranspiration (ET), groundwater, precipitation, aridity index, National agricultural (cultivated and non-cultivated), and Spearman’s rank correlation. The purpose of this is to find the relationship between agriculture (arid and humid sites) and groundwater decline using ET: Precipitation ratio and groundwater trend (mm/yr).
 
 ### Authors
 -  Austin Martinez {Github, Website, LinkedIn}
