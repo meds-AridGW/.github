@@ -1,7 +1,7 @@
 # Quantifying Relationships Between Agriculture and Groundwater Decline in Arid Areas
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5b83b9bf-3910-4a2a-995f-b9a6a029d251" width="123" height="123">
+<img width="200" height="200" alt="AridGW_LOGO" src="https://github.com/user-attachments/assets/84cf37e2-c4c9-4c7c-9ba8-2f4501bfacbc" />
 </p>
 
 
@@ -16,7 +16,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 ### Authors
 -  Austin Martinez {Github, Website, LinkedIn}
 -  Henry Oliver {Github, Website, LinkedIn}
--  Marie Tolteca {Github, Website, LinkedIn}
+-  Marie Tolteca {[Github](https://github.com/marietolteca00), [Website](https://marietolteca00.github.io/), [LinkIn](www.linkedin.com/in/marietolteca)}
 -  Richard Montes Lemus {Github, Website, LinkedIn}
 
 ### Client/Advisor
