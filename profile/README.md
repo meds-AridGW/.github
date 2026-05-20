@@ -1,9 +1,9 @@
 # Quantifying Relationships Between Agriculture and Groundwater Decline in Arid Areas
 
 <p align="center">
-<img width="200" height="200" alt="AridGW_LOGO" src="https://github.com/user-attachments/assets/84cf37e2-c4c9-4c7c-9ba8-2f4501bfacbc" />
+  <img alt="AridGW_LOGO" src="https://github.com/user-attachments/assets/84cf37e2-c4c9-4c7c-9ba8-2f4501bfacbc" width="45%" />
+  <img alt="AridGW_members" src="https://github.com/user-attachments/assets/c09614f6-0798-4cec-9483-f5d92989490f" width="45%" />
 </p>
-
 
 ### Project summary:
 Groundwater is the primary water source for irrigated agriculture in many arid regions. Due to limited precipitation, water withdrawals in these regions often outpace groundwater recharge, leaving them vulnerable to accelerating groundwater-level declines. This project aims to understand how the expansion of cultivated land and irrigation intensity relate to groundwater-level changes in arid regions of the United States. Satellite imagery offers a way to track agricultural practices and model their relationship to groundwater trends; however, accessing and analyzing data requires specialized software and coding experience, creating a technical barrier that prevents many users. To address this challenge, we develop a reproducible workflow that integrates groundwater-level records with remotely sensed evapotranspiration (ET) and precipitation data. Using ET: Precipitation ratios as a proxy for irrigation intensity, we analyze relationships between water use, seasonality, crop type, and groundwater decline across multiple sites. Statistical analyses, including Spearman’s rank correlation, and visualizations of annual trends are used to quantify these relationships. This project improves understanding of the drivers of groundwater depletion in arid regions while reducing technical barriers to groundwater–agriculture research. The resulting workflow can support organizations such as the Food and Agriculture Organization (FAO), Sustainable Development Goal 6 (SDG 6), and regional groundwater agencies in advancing sustainable water management.
