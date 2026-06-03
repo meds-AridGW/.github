@@ -16,7 +16,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 ### Authors
 -  Austin Martinez {Github, Website, LinkedIn}
 -  Henry Oliver {Github, Website, LinkedIn}
--  Marie Tolteca {[Github](https://github.com/marietolteca00), [Website](https://marietolteca00.github.io/), [LinkIn](www.linkedin.com/in/marietolteca)}
+-  Marie Tolteca {[Github](https://github.com/marietolteca00), [Website](https://marietolteca00.github.io/), [LinkedIn](www.linkedin.com/in/marietolteca)}
 -  Richard Montes Lemus {Github, Website, LinkedIn}
 
 ### Client/Advisor
