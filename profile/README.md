@@ -14,13 +14,13 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 -    [ET_GW_analysis_workflow](https://github.com/meds-AridGW/GW-depth-data-exploration): This repository is used to create a reproducible workflow that integrates open-source evapotranspiration (ET), groundwater, precipitation, aridity index, National agricultural (cultivated and non-cultivated), and Spearman’s rank correlation. The purpose of this is to find the relationship between agriculture (arid and humid sites) and groundwater decline using ET: Precipitation ratio and groundwater trend (mm/yr).
 
 ### Authors
--  Austin Martinez {Github, Website, LinkedIn}
--  Henry Oliver {Github, Website, LinkedIn}
--  Marie Tolteca {[Github](https://github.com/marietolteca00), [Website](https://marietolteca00.github.io/), [LinkedIn](www.linkedin.com/in/marietolteca)}
--  Richard Montes Lemus {Github, Website, LinkedIn}
+-  Austin Martinez {GitHub, Website, LinkedIn}
+-  Henry Oliver {GitHub, Website, LinkedIn}
+-  Marie Tolteca {[GitHub](https://github.com/marietolteca00), [Website](https://marietolteca00.github.io/), [LinkedIn](www.linkedin.com/in/marietolteca)}
+-  Richard Montes Lemus {GitHub, Website, LinkedIn}
 
-### Client/Advisor
--    Dr. Scott Jasechko
+### Client and Advisor
+-    Dr. Scott Jasechko, Professor at UCSB Bren School
 
 ### Data Source
 <img width="714" height="397" alt="Screenshot 2026-04-23 at 11 52 26 AM" src="https://github.com/user-attachments/assets/e2e0a229-4761-47de-bebf-9a4f7205c970" />
@@ -66,7 +66,7 @@ Bren School:
 -  Dr. Carmen Galaz García, Assistant Teaching Professor
 -  Alicia (Allie) Caughman, Teaching Assistant, Ph.D. Student
 -  Dr. Ashley Larsen, Associate Professor
--  Andrew (Andy) MacDonald, Assistant Professor
+-  Dr. Andrew (Andy) MacDonald, Assistant Professor
 
 OpenET: 
 -  Lydia Bleifuss, Program Manager
